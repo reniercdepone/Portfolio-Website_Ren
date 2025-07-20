@@ -12,6 +12,13 @@ const exp = [
     desp: "<li>Conduct comprehensive daily data analysis, extracting valuable insights to drive informed decision-making and business strategy.</li> <li>Design and develop interactive Tableau dashboards, leveraging data pipelines to visualize complex information and facilitate data-driven discussions across departments.</li> <li>Directly collaboration with cross-functional teams to identify areas for process improvement and implement data-driver solutions.</li> <li>Made Python automations to significantly improve efficiency in various business processes</li> <li> Created Web Scrapers as a way to monitor competitor's prices as well as our own site's content availability.</li>",
   },
   {
+    title: "AI Software Engineering Fellow",
+    cardImage: "assets/images/experience-page/headstarter.png",
+    place: "New York, USA (Remote)",
+    time: "(Jul - Aug, 2024)",
+    desp: "<li>Developed 5 Generative AI Web Applications mainly using NextJS and AI APIs</li> <li>Used OpenAI API, Grok API, Firebase, Pinecone Vector Database, Retrieval-Augmented Generation</li>",
+  },
+  {
     title: "Data Analyst Intern",
     cardImage: "assets/images/experience-page/ahead.png",
     place: "AHEAD Tutorial and Review Center - QC Philippines",
